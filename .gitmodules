@@ -1,0 +1,3 @@
+[submodule "snzts"]
+	path = snzts
+	url = https://github.com/cmhh/snzts
