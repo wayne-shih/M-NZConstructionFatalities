@@ -4,12 +4,12 @@ Data sourced from WorkSafe New Zealand New Zealand Mahi Haumaru Aotearoa (WorkSa
 
 Throughout 2019 the number of fatalities in the construction sector were much higher than previous years:
 
-Fatalities in the Construction Industry, 2016-19
+### Fatalities in the Construction Industry, 2016-19
 ![Graph of WorkSafe Fatalities in the Construction Industry, 2016-19](/docs/worksafeConstructionFatalities2016-19.svg)
 
-Rate of Fatalities
+### Rate of Fatalities
 | Year | Worker fatalities per 100,000 workers in NZ |
-| :--- |                                        ---: |
+| :--: | ------------------------------------------: |
 | 2016 | 2.68                                        |
 | 2017 | 3.79                                        |
 | 2018 | 2.47                                        |
@@ -21,6 +21,9 @@ The total number of construction workers in 2016, 2017, 2018 and 2019 are approx
 
 ## Sources
 WorkSafe New Zealand, 2019. Fatalities \[dataset\].
+
 WorkSafe New Zealand, 2020. Fatalities summary table. Retrieved from https://data.worksafe.govt.nz/editorial/fatalities_summary_table on 2020, Jan 21.
+
 Statistics New Zealand, 2019. Household Labour Force Survey – Persons Employed by Sex by Industry, ANZSIC06 \[dataset\]. HLFA.SJC1EE, HLFA.SJC2EE. Retrieved from http://localhost:9000/snzts/v1/dataset?format=csv&subjectCode=HLF&familyCode=SJC&familyNbr=3478&limit=100 via [\[snzts @ 3f0df40\]](https://github.com/cmhh/snzts/tree/3f0df408352def9356646c63686485d4489d7bb8).
+
 Statistics New Zealand, 2019. Household Labour Force Survey – Persons Employed by Sex by Industry, ANZSIC06 – Sampling Errors \[dataset\]. HLFQ.SJCSE3EE. Retrieved from http://localhost:9000/snzts/v1/dataset?format=csv&subjectCode=HLF&familyCode=SJC&familyNbr=4333&limit=100 via [\[snzts @ 3f0df40\]](https://github.com/cmhh/snzts/tree/3f0df408352def9356646c63686485d4489d7bb8).
