@@ -36,8 +36,8 @@ Statistics New Zealand, 2019. Household Labour Force Survey – Persons Employed
 > WorkSafe New Zealand Fatalities Register:
 > 1. Includes information based on confirmed fatal work-related incidents reported to WorkSafe. 
 > 2. Accident Compensation Corporation Te Kaporeihana Āwhina Hunga Whara (ACC) claims:
-> * Includes information based on accepted ACC claims for work-related fatalities.  
-> * This can include work-related fatalities that come under the Maritime New Zealand Nō te rere moana Aotearoa, Civil Aviation Authority Te Mana Rererangi Tūmatanui o Aotearoa, and New Zealand Police Nga Pirihimana o Aotearoa jurisdictions. 
+>    * Includes information based on accepted ACC claims for work-related fatalities.  
+>    * This can include work-related fatalities that come under the Maritime New Zealand Nō te rere moana Aotearoa, Civil Aviation Authority Te Mana Rererangi Tūmatanui o Aotearoa, and New Zealand Police Nga Pirihimana o Aotearoa jurisdictions. 
 >
 > This data takes time to stabilise. We recommend applying a three month lag to the fatality number.
 >
@@ -46,24 +46,25 @@ Statistics New Zealand, 2019. Household Labour Force Survey – Persons Employed
 > * Averages have been rounded to 1 decimal place. A value of ‘0’ indicates a value that has been rounded to ‘0.0’.
 > * The AFF2017 variable uses the Australia and New Zealand Standard Industry Classification (2006) system, but alters the reporting levels of the Agriculture, Forestry and Fishing industry to provide more detail.
 > * Data quality has improved over time so caution is advised when interpreting the data.
+[data.worksafe.govt.nz](https://data.worksafe.govt.nz/graph/detail/fatalities)
 
 ### StatsNZ Household Labour Force Survey (HLFS)
 > The target population is the entire group from which you would ideally like to get information. The target population for the HLFS is the working-age population of New Zealand. We define this as ‘the non-institutionalised population 15 years and over, who usually live in New Zealand.’ Specifically the target population excludes:
 > * people who have been living in New Zealand for less than 12 months, and who do not propose to stay in New Zealand for a total of 12 months or more
 > * long-term residents of homes for older people, hospitals, and psychiatric institutions (long-term is defined as six weeks or more)
-> * people in prison
+> * people in prison.
 >
 > The survey population consists of the group members (from the target population) who have a chance of being selected as part of the sample (ie they can be identified through the sampling frame). For the HLFS, we apply further exclusions to the target population to create the survey population (often due to cost and practical reasons), from which we then select the HLFS sample. These exclusions are a small percentage of the population and the bias introduced is minimal. The survey population is the target population with these exclusions. People:
 > * residing in non-private dwellings (eg. people in hotels, motels, hostels, military camp)
 > * residing in non-permanent dwellings (eg. people in tents or caravans not permanently sited)
 > * residing at a wharf or landing place (eg. people in ships, boats)
-> * residing on islands other than the North, South, and Waiheke islands (eg. people on Great Barrier, Kawau, Chatham, and Stewart islands)
+> * residing on islands other than the North, South, and Waiheke islands (eg. people on Great Barrier, Kawau, Chatham, and Stewart islands).
 >
 > Sampling errors quantify the variability that occurs by chance because a sample rather than an entire population is surveyed. We calculate sampling errors using the jackknife method. It is based on the variation between estimates of different subsamples taken from the whole sample. This is an attempt to see how estimates would vary if we were to repeat the survey with new samples of individuals. We produce sampling errors and confidence intervals for most point and change estimates. Confidence intervals are used to demonstrate the amount of uncertainty associated with a sample estimate; presenting an upper and lower limit for a particular estimate. The HLFS calculates confidence intervals at the 95 percent confidence level, which means that if multiple samples were drawn, 95% of the confidence intervals would contain the true figure. As the size of the sampled group decrease, the relative sampling errors will generally increase. For example, the estimated number of Pacific peoples employed would have a larger relative sampling error than the estimated total number of people employed. Likewise, the estimated number of people unemployed would have a larger relative sampling error than the estimated number of people employed. A change in an estimate, either from one adjacent quarter to the next, or between quarters a year apart, is said to be statistically significant if it is larger than the associated sampling error.
 ```
 <r:URN> urn:ddi:nz.govt.stats:6a13af44-0057-4a63-835a-c1a0c6f8ef91:16 </r:URN>
-<r:Agency>nz.govt.stats</r:Agency>
-<r:ID>6a13af44-0057-4a63-835a-c1a0c6f8ef91</r:ID>
-<r:Version>16</r:Version>
+<r:Agency> nz.govt.stats </r:Agency>
+<r:ID> 6a13af44-0057-4a63-835a-c1a0c6f8ef91 </r:ID>
+<r:Version> 16 </r:Version>
 ```
 [datainfoplus.stats.govt.nz](http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/b7c39358-aa03-446f-a27d-91c37caac35d?&_ga=2.19847480.1830762553.1581720966-1074207774.1579492621#/nz.govt.stats/6a13af44-0057-4a63-835a-c1a0c6f8ef91#)
