@@ -7,13 +7,13 @@ Throughout 2019 the number of fatalities in the construction sector were much hi
 ### Fatalities in the Construction Industry, 2016-19
 ![Graph of WorkSafe Fatalities in the Construction Industry, 2016-19](/docs/worksafeConstructionFatalities2016-19.svg)
 
-### Rate of Fatalities
-| Year | Worker fatalities per 100,000 workers in NZ |
-| :--: | ------------------------------------------: |
-| 2016 | 2.68                                        |
-| 2017 | 3.79                                        |
-| 2018 | 2.47                                        |
-| 2019 | **6.29**                                    |
+### Rate of Worker Fatalities in the Construction Industry
+| Year | per 100,000 workers |
+| :--: | ------------------: |
+| 2016 | 2.68                |
+| 2017 | 3.79                |
+| 2018 | 2.47                |
+| 2019 | **6.29**            |
 
 Using *WorkSafe*’s “Fatalities” dataset with the date range of Jan 2016 to Oct 2019 and filtered by the construction industry (*ANZSIC06 Industry Classification – E: Construction*) workers (ie. excluding fatalities of members of the public as a result of someone else’s work activity). As of the writing of this report, data after October are not yet available in the dataset – due to the 3 months lag implemented to accommodate for potential additional figures from ACC claims or incidents that have not yet been reported. November and December figures have been sourced from the “Fatalities Summary Table” which are based on initial notifications to WorkSafe and lack the specificity of whether the fatality was acting as a worker or a member of the public during the incident. 
 
